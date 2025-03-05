@@ -10,6 +10,7 @@ Windows, C#, C++, Kotlin, MS SQL Server, 1С, HTML5, CSS3, Git, MS Office, Adobe
 
 ● Разработка десктопных приложений на C# и C++ в MS Visual Studio.
 <tr>● Разработка мобильных приложений на Kotlin в Android Studio.
+
 <tr>● Разработка баз данных в СУБД MS SQL Server.
 <tr>● Разработка конфигураций в 1С.
 <tr>● Разработка веб-сайтов с использованием HTML5 и CSS3.
