@@ -2,6 +2,7 @@
 я <b>Симонова Елизавета Вячеславовна</b>, C#-разработчик
 
 г. Челябинск
+
 Телефон: +7 (951) 444-12-96 | email: [yelizaveta.simonova.04@mail.ru](yelizaveta.simonova.04@mail.ru) | 
 
 
